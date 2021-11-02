@@ -1,0 +1,14 @@
+.DS_Store
+dist
+build
+node_modules
+vendor/github.com/ethereum/go-ethereum
+.todo
+
+.DS_Store
+.vault_password.txt
+
+
+
+.idea
+vendor2
